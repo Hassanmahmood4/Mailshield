@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Streamlit cache
+.streamlit/
+
+# OS
+.DS_Store
+
+# ML artifacts (optional – recommended to ignore large files)
+spam_model.joblib
+tfidf_vectorizer.joblib
+
+# Data (optional – if large dataset)
+data/

@@ -1,0 +1,10 @@
+Mailsheild-ai/
+├── data/
+│   └── spam.csv
+├── train_spam_classifier.py
+├── predict.py
+├── model.py
+├── utils.py
+├── app.py
+└── main.py
+└── requirements.txt
